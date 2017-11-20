@@ -1,7 +1,7 @@
 # notebook
 
 > 用vue、vuex和moment做了个任务管理器。具体的功能是这样的
->![Alt text](/notebook.png)
+>![任务管理器](/notebook.png)
 ## Build Setup
 
 ``` bash
