@@ -2,6 +2,8 @@
 
 > 用vue、vuex和moment做了个任务管理器。具体的功能是这样的
 >![任务管理器](/notebook.png)
+# 项目预览地址
+> [预览地址](http://littleki.com/mytask/#/)
 ## Build Setup
 
 ``` bash
